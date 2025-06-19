@@ -21,7 +21,9 @@ c_uint
 c_ulong
 c_ulonglong
 c_ushort
+c_void
 callconv
+cancel
 catch
 comptime
 comptime_float
@@ -51,6 +53,7 @@ isize
 lib+
 linksection
 multihash
+nakedcc
 noalias
 noinline
 noreturn
@@ -60,9 +63,12 @@ opaque
 or
 orelse
 packed
+promise
 pub
 resume
 return
+section
+stdcallcc
 struct
 suspend
 switch
@@ -75,6 +81,7 @@ u\d+
 undefined
 union
 unreachable
+use
 usingnamespace
 usize
 var
