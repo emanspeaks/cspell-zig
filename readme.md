@@ -16,7 +16,7 @@ Then, ensure you import the config file in your existing project `.cspell.json` 
 {
     "version": "0.2",
     "import": [
-        ".cspell/zig/cspell.json"
+        ".cspell/zig/cspell-ext.json"
     ]
 }
 ```
